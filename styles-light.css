@@ -1,0 +1,61 @@
+body {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  /* Define CSS variables for colors */
+  :root {
+    --background-color: #f5f5f5;
+    --text-color: #333;
+  }
+  .top-nav {
+    background-color: rgba(51, 51, 51, 0.7);
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgba(255, 255, 255, 0.0); /* Use RGBA to set a semi-transparent background */
+  /* If you want to adjust the transparency, change the last value (0.7) to a lower value (e.g., 0.5 for more transparency) */
+    
+  }
+  
+  .top-nav button {
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  button.wish-button {
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: block;
+    width: 150px;
+  }
+  .back-to-top-btn {
+    /* Customize the appearance of the back-to-top button */
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: none; /* Hide the button by default */
+  }
+  .show {
+    display: block;
+  }
+
+  
+  
+  
+  
+  
