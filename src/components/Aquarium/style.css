@@ -1,0 +1,31 @@
+img.fish {
+  position: absolute;
+  height: 28px;
+  width: 49px;
+  left: 0;
+  top: 0;
+}
+
+
+
+
+.wavestyle {
+  /* background-image: url("../../../public/assets/giphy.gif"); */
+  z-index: 0;
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.aquarium-container {
+  background-image: url('./giphy.gif'); /* Set the background image for the container */
+  background-size: cover; /* Adjust the background image size */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+  height: 100vh; /* Set the height of the container to full viewport height */
+  z-index: 0;
+}
+

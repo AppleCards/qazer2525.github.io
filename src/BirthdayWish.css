@@ -1,0 +1,47 @@
+.box {
+    width: 45%;
+    height: 200px; /* Adjust the height as needed */
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 5px;
+    transform: translateY(0);
+    opacity: 0.8;
+    background-size: cover;
+    background-position: center;
+    background-image: var(--image-default); /* Use var() to reference the default image URL variable */
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically center the content */
+    align-items: center; /* Horizontally center the content */
+  }
+  
+  .box.hovered {
+    animation: fadeIn 0.5s ease forwards;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0.65;
+      transform: translateY(0);
+      background-image: var(--image-hover);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(-10px);
+      background-image: var(--image-hover);
+    }
+}
+.box h3 {
+    color: white;
+    font-size: 50px; /* Adjust the font size as needed */
+    margin: 40px; /* Add some margin to separate the headings */
+  }
+  
+    
+    
+  
+    
+    

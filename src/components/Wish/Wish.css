@@ -1,0 +1,57 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optional: Set the height to control the container's height */
+  }
+  .wish {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .wish h2 {
+    color: #333;
+  }
+  
+  .wish p {
+    color: #555;
+  }
+
+  .birthday-wish-container {
+    text-align: center;
+  }
+  
+  .birthday-wish-box {
+    width: 70%;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin: 10px auto;
+  }
+  
+  .birthday-wish-text {
+    /* Default font size for larger screens */
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .birthday-wish-name {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  /* Media query for smaller screens (e.g., phones) */
+  @media (max-width: 768px) {
+    .birthday-wish-box {
+      width: 90%; /* Reduce the width for smaller screens */
+      padding: 10px; /* Adjust the padding for smaller screens */
+    }
+  
+    .birthday-wish-text {
+      font-size: 14px; /* Reduce the font size for smaller screens */
+    }
+  }
