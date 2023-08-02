@@ -88,8 +88,6 @@ class Fish extends Component {
     let { xVelocity, xDirection, yVelocity, yDirection, zVelocity, zDirection } = this.state;
 
     if (this.state.x > window.innerWidth || this.state.y > window.innerHeight) {
-      console.log(window.innerWidth);
-      console.log(this.state.x);
       this.relocate(); // if the fish is outisde the window (window was resized, probably)
     } 
 

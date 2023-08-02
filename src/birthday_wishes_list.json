@@ -2,63 +2,123 @@
     "wishes": [
       {
         "name": "Jing Ting",
+        "image": "/assets/people/jingting/background.jpg",
+        "gif": "assets/people/jingting/gif.gif",
         "message": "Happy birthday Tee Yap!! Thank you for being a part of Relentless 1 :) I’m so encouraged by how far you’ve come, and I’m constantly amazed at how much you’ve grown since the first time we met! Thank you for always being available to serve and give. I hope you know that the community is always within reach, and you’re never alone in what you’re going through! :) As you grow a year older, I pray that you’ll continue to trust God with all of your heart and know how valuable you are in His sight! Keep seeking and keep finding, there’s so much more ahead! Happy birthday Tee Yap!"
       },
       {
         "name": "Yu Xun",
+        "image": "/assets/people/yuxun/background.jpg",
+        "gif": "assets/people/yuxun/gif.gif",
         "message": "Happy birthday Tee Yap!! Indeed, you have grown and changed so much! Despite your struggle now, remember that you have got out of it once with God before. And you would be able to get out of it with God the second time. Really press on & persist on. Happy blessed birthday!"
       },
       {
         "name": "Gloria",
+        "image": "/assets/people/gloria/background.jpg",
+        "gif": "assets/people/gloria/gif.gif",
         "message": "\"happy birthday tee yap!!!\nthank you for always serving the lg and being so friendly :’) Though I havent spoken much to you , from the interactions I have with you , you’re really open and comfortable to talk to, hope i can get to know you more! \nI pray that you let Him in into all areas of your life , that He’s holding you so all you got to do is lean on Him 😬!!\nHave a good birthday!\""
       },
       {
         "name": "Jun Hao",
+        "image": "/assets/people/junhao/background.jpg",
+        "gif": "assets/people/junhao/gif.gif",
         "message": "Happy birthday Tee Yap. You seem to be a super cool person to hang out and talk to :). I enjoyed those moments of conversation with you and of course playing Valorant with you too 🤩. I pray that as you grow a year older, continue to put your trust in him. Whatever season that you are going through, I pray that you will continue to hold on to him. Jiayous in school and see you around in church"
       },
       {
         "name": "Flora",
+        "image": "/assets/people/flora/background.jpg",
+        "gif": "assets/people/flora/gif.gif",
         "message": "Happy blessed birthday Tee Yap!! So fast eh, you're gonna be Y2 right. I still remember how at the start of uni, you were very stressed and anxious about things. And now it does look like you're managing things a lot better :D YA I'm super encouraged when you shared about how you mentioned you planned to stay at home to complete assignments during the RVVL night period. But then you still chose to come, so that you won't miss out on the things that God is doing. I still remember you joined my small group once after radcon and shared about God speaking to you about the power of words. How is that going!! I pray that even as you get older, that God may show you how dear you are to His heart and that you may trade the way you see yourself for how He sees you. Have a great one!"
       },
       {
         "name": "Kieron",
+        "image": "/assets/people/kieron/background.jpeg",
+        "gif": "assets/people/kieron/gif.gif",
         "message": "\"happy blessed birthday sirrr\nwowowza you’re turning another year olderr. but yesh am very blessed to have you as a friend in lifegroup and to game wif also (we all need a valo carry like you HAHA) but yea now the season of life may be abit hard rn but jiayous yea i think you’re doing fine so farrr. keep pursuing God and trusting in Him, with Him you’ll go far. if you need help any way can let us know la hor, we not just restricted to wed and saturday friends, dunnid feel paiseh to askk. and yea praying that you continue to walk closely with God through the highs and lows. if we not in the same multiplication lifegroup is ok we can still game tgt and hang out HAHA. have a v blessed birthday yeaa\""
       },
       {
         "name": "JJ",
+        "image": "/assets/people/jj/background.gif",
+        "gif": "assets/people/jj/background.gif",
         "message": "\"Happy birthday Tee Yap!\nSir it’s been so great to get to know you better recently, especially with the runs AHAHAHAH you legit insane bruh, what half marathon geez.\nIn this coming year, I pray that you will experience more of the goodness of God and recognise them as from Him. I pray that in experiencing God’s goodness, you will be able to lean onto Him fully, truly trusting Him with all your worries. Wait on the Lord sir, cus he is doing great things in your life and in his perfect timing!"
       },
       {
         "name": "Yee May",
+        "image": "/assets/people/yeemay/background.png",
+        "gif": "assets/people/yeemay/gif.gif",
         "message": "Happy birthday Tee Yap! Just want to say that you have rlly come so far in ur walk with God and dont let ur setbacks stop u from pursing God because God is constantly chasing after u also. Also thank you for all ur honest sharing during sg, thankful that you allowed urself to be vulnerable infrony of SG and letting us speak to u.👍 Rlly atb for ur remaining years in Uni and continue trusting God with the future that He has planned for u. 💪💪"
       },
       {
         "name": "Adrian",
+        "image": "/assets/people/adrian/background.jpg",
+        "gif": "assets/people/adrian/gif.gif",
         "message": "happy birthday tee yap! really really proud of how far you've come. haha I know you're sick of hearing it from me or sometimes don't believe it but I truly mean it when I say it, you have grown so much! As long as you remain humble and teachable, always seeking God and trying to see Him in every circumstance in your life, you will continue to grow! even if sometimes yes you do not feel it or see it. 10 years ago you would not have in your wildest dreams imagine where you are now! And even now you expect so much more because you know God has so much more in store for you! what a powerful expectation to have! no longer do you settle for what the world can give you but you know truly God has the best in store for you, keep pursuing that! And I know for sure that God will bring you on such an exciting adventure, im so happy that I get to be just a small part of that! happy birthday teeyap, excited for whats to come for you!!"
       },
       {
         "name": "Zheng Han",
+        "image": "/assets/people/zhenghoney/gif.gif",
+        "gif": "assets/people/zhenghoney/gif.gif",
         "message": "Happy birthday Tee Yap! Thank you for being such a steady bro and always down for a run or just driving us around! Wah, to think you finish Year 2 le and Year 3 about to start :\") How time flies and I can really see how God has been working in your life over the years I've known you! From the pre-NS days till today, you have grown so much and I'm just so thankful to have witnessed it. I pray that even as you grow a year wiser, may you continue to lean on Him, dwell in His presence and even go as He calls! I'm sure He has a beautiful in store for you and we are all excited to see it! Stay cool and chill! Happy birthday! :))"
       },
       {
         "name": "Charis",
+        "image": "/assets/people/charis/background.png",
+        "gif": "assets/people/charis/gif.gif",
         "message": "happy birthday Tee Yap!! 🥳🎉 hope uve got a well-deserved and well-rested break before the school term starts again! thank you for ur faithfulness in serving the lifegroup and your presence in R1 :) thankkkk you for making urself available to help out more with the bdays as well!! also really enjoyed our smol conversations as and when like the time u shared about ur driving and driving xinyi's bluesg (if i rmb corr) HAHAHA funs stuffs 🤩 praying that as you turn another year older, you'll continue to seek after God first in all you do and experience Him in a deeper manner ✨ hv a blessed birthday!!"
       },
       {
         "name": "Claudia",
+        "image": "/assets/people/claudia/gif.gif",
+        "gif": "assets/people/claudia/gif.gif",
         "message": "Happy 25th Birthday Tee Yap!!! 🎉 haha that’s 1/4 a century alr 😱 thank you for serving faithfully in LG finance ministry! Thank you also for sharing with me about your fam situation last time during one of our LG dinners after service.. I believe God will continue the healing work in your family as y’all continue walking in Him! :) Praying for you that in the upcoming year ahead, you will experience so much more growth and personal breakthrough in God; and that you may know Him personally as your good, perfect and caring Father who will never leave you. Encourage you to build your confidence be built on who He says you are, and to fix your eyes on Him as the source of your hope! :) hope you have an awesome birthday!!"
       },
       {
         "name": "Hui Lin",
+        "image": "/assets/people/huilin/gif.gif",
+        "gif": "assets/people/huilin/gif.gif",
         "message": "Happy birthday Tee Yap! Wow you’ve alr hit the quarter life (25 years old) haha. I hope that school has been good for you and that you enjoy studying what you study! I pray that you continue to lean to God for strength and boldness even through whatever season you are in. Know that you are not walking this journey alone! Hope you a have a blessed birthday :)"
       },
       {
         "name": "Paul",
+        "image": "/assets/people/paul/background.jpg",
+        "gif": "assets/people/paul/gif.gif",
         "message": "\"hello tee yap!\nvery happy birthday to you! :-) i’m so glad to have gotten to know you from lifegroup 😀 it is always nice to talk to you about how things are and how life in school is like! I am so happy that you are getting to know God more and more through this season in your life, even with all that commitment and pressure from university, you still give God so much of your time - that requires so much faith and trust! As you trust more and more in him, be confident in your identity in him. Always remember that he loves you dearly and calls you his own! So proud of you tee yap 🥺 jiayou ok! you’re doing your best and i am sure God has given you the strength to do so 😁 Continue striving for God in your very own ways - being exemplary in your work/praying/singing praises to his name!"
       },
       {
         "name": "Allyssa",
+        "image": "/assets/people/allyssa/gif.gif",
+        "gif": "assets/people/allyssa/gif.gif",
         "message": "\"hello teeyap!!\nhappy birthday! so blessed to have you in R1 & glad to see you growing deeper in your walk!\n\nas you grow a year older, i hope that you will continue to be blessed by God in all areas of ur life! also, i pray that as you juggle the busy life of school, you will be able to experience His joy as well as find rest in Him continually. Praying that as you continue to build your life on Christ, you will be able to feel God's guidance, continually be encouraged by Him & grow deeper in your understanding of God! hope that you have a wonderful day & happy birthday once again!\""
+      },
+      {
+        "name": "Xin Yi",
+        "image": "/assets/people/xinyi/gif.gif",
+        "gif": "assets/people/xinyi/gif.gif",
+        "message": "Happy birthday Teeyap🎉 turning one year older again. Appreciate the quiet presence you bring to lg. even though this year hasn’t been easy, I am glad that you are still persisting in trying to continue on. I pray that as you continue to seek God, even though the answers might not come immediately, you will be able to find rest and trust in His character, cause He never fails. Praying for even greater breakthrough💪 have a good birthday"
+      },
+      {
+        "name": "Gilda",
+        "image": "/assets/people/gilda/background.jpg",
+        "gif": "assets/people/gilda/gif.gif",
+        "message": "happy birthday teeyap!! wow! youre turning 25 already!! so fast hor HAHA. the one year has been interesting! i saw how you became much more open and vulnerable with others, and not allow fear to stop you in what you truly want to do! to see you serving in lg & church as well has been very encouraging! i pray that as you turn a year older, you will continue to allow God to work in your life the way He wants to & that you will lean on to Him! God loves you very much & He really cares for you! happiest birthday teeyap!"
+      },
+      {
+        "name": "Jia Ying",
+        "image": "/assets/people/jiaying/background.jpg",
+        "gif": "assets/people/jiaying/gif.gif",
+        "message": "happy blessed birthday Tee Yap! It is great to see you grow over the years & witness how God redeems you and grow you to be who you are today! I’m ever so grateful for you honesty and vulnerability during small group discussions and encouraged to see you desiring to take action steps to grow closer to God. Continue to seek after His heart!!"
+      },
+      {
+        "name": "Phoebe",
+        "image": "/assets/people/phoebe/gif.gif",
+        "gif": "assets/people/phoebe/gif.gif",
+        "message": "dear teeyap, happy birthday!! felt like fOREVER since we last talked. hope life has been going great for you since then! thank you for being my bmt/dna buddy those few weeks, for being reliably on time while the rest of us struggle to even wake up for bmt haha thank you for answering all my random questions with so much truth and honesty. it would have been easier, convenient, to laugh some questions off or give a vague answer, but you were always real with your deepest insecurities and vulnerability. and for that, i am deeply encouraged. thank you for the few study sess we had post-bmt. uni workload is really no joke :” but yes, going into year 3 together now!! hope it’ll be your best year yet! may not see you around in lg anymore. but maybe i’ll see you in the library again come exam season haha once again, happy birthday sir!! and have a good one! :D"
+      },
+      {
+        "name": "Hao Ran",
+        "image": "/assets/people/haoran/gif.gif",
+        "gif": "assets/people/haoran/gif.gif",
+        "message": "Happy happy birthday Tee Yap !! 🥳🥳😍😍🎂🎂🎂 I can’t remember exactly how many years we have known each other but it feels like forever haha. I am very glad that I got to see your different phases of life and now you are in uni ! Even tho you are a true introvert and is always quiet, but you are always listening and involved even tho you may not speak up and that is something I appreciate about you ! ((: You have been faithful throughout these years and even tho people come and go, I am glad that you are one of them that stayed !! Your quiet perseverance is something that I am always encouraged and inspired by. Sometimes it is so easy to be quick to complain and be depressed/crushed about circumstances or trials, but I admire your attitude of just accepting and pushing on despite not having the most favourable situation. Your seemingly unwavering attitude and determination to work something out is something that I should learn 🥹 Even tho we are multiplying soon and will not be in the same lifegroup, but I hope that we will still say hi to each other ok hahahaha. Better not ignore me when u see me ok :”) Have a very blessed birthday and I hope you enjoy ur special day with your loved ones ! 🎂🎂☺️☺️ P.S. you and Tee Hong’s relationship is adorable 🥰"
       }
     ]
   }

@@ -1,5 +1,4 @@
 .box {
-    width: 45%;
     height: 200px; /* Adjust the height as needed */
     border: 2px solid white;
     border-radius: 10px;
@@ -17,14 +16,26 @@
     justify-content: center; /* Vertically center the content */
     align-items: center; /* Horizontally center the content */
   }
-  
+  /* Media query for landscape orientation */
+@media screen and (orientation: landscape) {
+  .box {
+    width: 18%; /* Set the width to 20% for landscape orientation */
+  }
+}
+
+/* Media query for portrait orientation */
+@media screen and (orientation: portrait) {
+  .box {
+    width: 45%; /* Set the width to 45% for portrait orientation */
+  }
+}
   .box.hovered {
     animation: fadeIn 0.5s ease forwards;
   }
   
   @keyframes fadeIn {
     from {
-      opacity: 0.65;
+      opacity: 0.4;
       transform: translateY(0);
       background-image: var(--image-hover);
     }
@@ -33,6 +44,12 @@
       transform: translateY(-10px);
       background-image: var(--image-hover);
     }
+}
+
+.element-to-animate {
+  animation-name: fadeIn;
+  animation-duration: 2s; /* Adjust this value to slow down the animation */
+  /* Other animation properties (e.g., animation-timing-function, animation-delay, etc.) can be applied here */
 }
 .box h3 {
     color: white;

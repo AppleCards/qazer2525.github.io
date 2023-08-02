@@ -1,0 +1,22 @@
+.custom-img {
+    height: 100vh;
+    object-fit: cover;
+}
+
+/* my-carousal.styles.css */
+.carousel .carousel-item {
+    display: flex;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.carousel .carousel-item.active {
+    opacity: 1;
+}
+
+
+.carousel-container {
+    position: relative;
+    z-index: -1;
+    /* Set a higher z-index to keep it above the carousel */
+}

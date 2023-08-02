@@ -65,7 +65,7 @@ const BirthdayWish = ({ birthday }) => {
       onMouseLeave={handleHoverEnd}
       style={{
         "--image-default": `url()`,
-        "--image-hover": `url('/assets/hollow-knight-god-home.gif')`,
+        "--image-hover": `url('${birthday.gif}')`,
         margin: '5px', // Adjust the margin as needed
         padding: '20px', // Adjust the padding as needed
         display: 'flex',
