@@ -1,0 +1,50 @@
+.page-container {
+  position: relative; /* Set the position to relative */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Set the desired height of the container */
+  }
+  
+  
+  .word-container {
+    position: absolute; /* Set the position to absolute */
+    top: 50%; /* Move the container to the vertical center */
+    left: 50%; /* Move the container to the horizontal center */
+    transform: translate(-50%, -50%); /* Center the container */
+    margin: 0 auto; /* Center the container horizontally */
+    text-align: center;
+    margin: 0 auto; /* Center the container horizontally */
+    background-color: rgba(0, 0, 0, 0.5); /* Set the background color with an alpha value (0.5 for 50% opacity) */
+    padding: 20px; /* Add some padding for better aesthetics */
+    width: 95%;
+
+  }
+  .transition-text {
+    /* Define the transition properties you want */
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .transition-text.show {
+    opacity: 1;
+  }
+
+  .carousel-container2 {
+    position: absolute; /* Set position to absolute */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Set z-index to -1 to move the carousel behind the content */
+  }
+  
+  .word-container h1 {
+    color: white;
+
+  }
+
+
+  h1 {
+    /* Add the desired font-size value */
+    font-size: 20px; /* Change this to the desired font size */
+  }

@@ -19,7 +19,6 @@
 .image-wrapper img {
   width: 100%; /* Make the image full-width inside the wrapper */
   height: 100%; /* Make the image full-height inside the wrapper */
-  object-fit: cover; /* This property will make the image cover the entire container */
 }
 
   .wish {

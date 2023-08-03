@@ -92,6 +92,9 @@ const HomePage = ({ isVisible }) => {
                 if (enteredText === 'arrowuparrowuparrowdownarrowdownarrowleftarrowrightarrowleftarrowrightba') {
                     navigate('game');
                 }
+                else if(enteredText === "jesus"){
+                    navigate('help');
+                }
 
                 // Reset the entered text after processing the input
                 setEnteredText('');
@@ -102,7 +105,14 @@ const HomePage = ({ isVisible }) => {
                 // Check if entered text plus the new character forms "flappybird"
                 else if ('arrowuparrowuparrowdownarrowdownarrowleftarrowrightarrowleftarrowrightbaenter'.startsWith(`${enteredText}${key}`)) {
                     setEnteredText((prevText) => prevText + key);
-                } else {
+                } 
+                else if (`${enteredText}${key}` === 'jesus'){
+                    navigate('jesus');
+                }
+                else if ('jesus'.startsWith(`${enteredText}${key}`)) {
+                    setEnteredText((prevText) => prevText + key);
+                } 
+                else {
                     // Reset the entered text if it doesn't match "flappybird"
                     setEnteredText('');
                 }

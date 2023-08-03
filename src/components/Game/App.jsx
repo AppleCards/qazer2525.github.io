@@ -7,6 +7,7 @@ import { observer} from 'mobx-react';
 import {game, rungame, states} from './store/store';
 import styled from 'styled-components';
 import { motion } from "framer-motion"
+import { useNavigate } from 'react-router-dom';
 const UnclickableDiv = styled.div`
   pointer-events: none;
 `;
@@ -133,7 +134,7 @@ export const Ready = observer(
 const Game = observer(class App extends Component {
     // Add a property to store the animation frame ID
     animationFrameId = null;
-
+    
     componentDidMount() {
       this.appUpdateFrame();
     }
@@ -151,6 +152,7 @@ const Game = observer(class App extends Component {
 
     this.props.updateFrame(); // this will trigger MobX to update the view when observable values change
   }
+  
 
 
   render() {
@@ -161,6 +163,7 @@ const Game = observer(class App extends Component {
       width: width,
       height: height
     }
+
 
     return (
       <motion.div
